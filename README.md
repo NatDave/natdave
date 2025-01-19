@@ -5,13 +5,13 @@
 
 - 😎 Check out my [personal website](natdave.github.io)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning Deep Learning
 
-- 💬 Ask me about **anything machine learning**
+- 💬 Ask me about anything machine learning
 
-- 📫 You can reach me via **natdave545@gmail.com**
+- 📫 You can reach me via natdave545@gmail.com
 
-- ⚡ Fun fact about me: **I play the piano**
+- ⚡ Fun fact about me: I play the piano
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
