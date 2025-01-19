@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natdave&label=Profile%20views&color=0e75b6&style=flat" alt="natdave" /> </p>
 
-- 😎 Check out my [personal website](natdave.github.io)
+- 😎 Check out my [personal website](www.natdave.github.io)
 
 - 🌱 I’m currently learning Deep Learning
 
