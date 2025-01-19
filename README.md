@@ -7,7 +7,7 @@
 
 - 🌐 Check out my personal website: [natdave.github.io](https://natdave.github.io)
   
-- 👨‍💻 I’m currently learning Deep Learning
+- 👨‍💻 I’m currently learning Deep Learning (no pun intended)
 
 - 💬 Ask me about anything machine learning
 
