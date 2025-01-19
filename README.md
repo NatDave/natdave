@@ -1,17 +1,19 @@
-<h1 align="center">Hi, everybody calls me calls me NatDave!</h1>
+<h1 align="center">Hi, everybody calls me NatDave!</h1>
 <h3 align="center">I'm a machine learning engineer passionate about solving problems and building intelligent systems, driven by my ultimate goal in life: to do whatever I want, whenever I want, with whoever I want, for as long as I want.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natdave&label=Profile%20views&color=0e75b6&style=flat" alt="natdave" /> </p>
 
-- 😎 Check out my personal website: www.natdave.github.io
-
-- 🌱 I’m currently learning Deep Learning
+- 🎓 I’m PhD'ing at Northeastern University, Boston, Massachusetts, USA
+  
+- 👨‍💻 I’m currently learning Deep Learning
 
 - 💬 Ask me about anything machine learning
 
 - 📫 You can reach me via natdave545@gmail.com
 
 - ⚡ Fun fact about me: I play the piano
+
+- 🌐 Check out my personal website: [natdave.github.io](https://natdave.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
