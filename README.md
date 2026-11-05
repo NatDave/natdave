@@ -6,12 +6,6 @@
 - 🎓 I’m PhD'ing at Northeastern University, Boston, Massachusetts, USA
 
 - 🌐 Check out my personal website: [natdave.github.io](https://natdave.github.io)
-  
-- 👨‍💻 I’m currently learning Deep Learning (no pun intended)
-
-- 💬 Ask me about anything machine learning
-
-- 📫 You can reach me via natdave545@gmail.com
 
 - ⚡ Fun fact about me: I play the piano
 
