@@ -23,8 +23,8 @@ PhD Candidate in Transportation Engineering · Northeastern University · Boston
 | [**transport-loop**](https://github.com/NatDave/transport-loop) | Web app to analyze trips crossing segments of a circular transportation loop |
 | [**traffic-stress**](https://github.com/NatDave/traffic-stress) | Level of traffic stress for street segments and intersection crossings (LTS and xLTS) |
 
-### 🧰 Tools
+### Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 
-<sub>⚡ Fun fact: I play the piano.</sub>
+<sub> **Fun fact:** I play the piano.</sub>
