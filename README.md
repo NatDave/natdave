@@ -1,22 +1,41 @@
-<h1 align="center">Hey, there! Everybody calls me NatDave. 😎</h1>
-<h3 align="center">I'm just a young guy who's passionate about solving problems and building intelligent systems.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natdave&label=Profile%20views&color=0e75b6&style=flat" alt="natdave" /> </p>
+# Nathan David Obeng-Amoako
 
-- 🎓 I’m PhD'ing at Northeastern University, Boston, Massachusetts, USA
+**Everybody calls me NatDave.** Making transportation systems work better!
 
-- 🌐 Check out my personal website: [natdave.github.io](https://natdave.github.io)
+PhD Candidate in Transportation Engineering · Northeastern University · Boston, MA
 
-- ⚡ Fun fact about me: I play the piano
+[![Website](https://img.shields.io/badge/Website-natdave.github.io-0b63ce?style=flat-square&logo=googlechrome&logoColor=white)](https://natdave.github.io) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=KMzP4zEAAAAJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-natdave-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/natdave) [![CV](https://img.shields.io/badge/CV-PDF-344054?style=flat-square&logo=readthedocs&logoColor=white)](https://natdave.github.io/files/NatDaveCV.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/natdave_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="natdave_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/natdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natdave" height="30" width="40" /></a>
-<a href="https://instagram.com/natdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natdave" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natdave&show_icons=true&locale=en&layout=compact" alt="natdave" /></p>
+### 🚦 What I work on
+
+- **Traffic simulation & digital twins:** Microsimulation models and digital twins to test signal control and transit priority before they reach the street
+- **AI & computer vision for infrastructure:** Deep learning with camera and LiDAR data to monitor roadway assets at scale
+- **Transit signal priority:** Signal timing and intersection layouts that cut bus delay without hurting people walking or driving
+- **Bicycle network analysis:** Level of traffic stress on streets and crossings, and the gaps that break up low-stress bike networks
+
+Appointed to the Massachusetts Bicycle & Pedestrian Advisory Board · Engineer-in-Training (E.I.T.)
+
+### 🛠️ Featured projects
+
+| Project | What it does |
+|---|---|
+| [**traffic-stress**](https://github.com/NatDave/traffic-stress) | Level of traffic stress for street segments and intersection crossings (LTS and xLTS) |
+| [**blue-bikes**](https://github.com/NatDave/blue-bikes) | Machine learning and computer vision analysis of Boston's Bluebikes ridership |
+| [**bluebikes-gbfs-recorder**](https://github.com/NatDave/bluebikes-gbfs-recorder) | Records the Bluebikes GBFS station status feed every 15 minutes |
+| [**traffic-sign-classifier**](https://github.com/NatDave/traffic-sign-classifier) | PyTorch traffic sign classifier with a Streamlit web app |
+| [**xgboost-ev-charging**](https://github.com/NatDave/xgboost-ev-charging) | Predicting EV charging station demand with the Caltech ACN dataset |
+| [**transport-loop**](https://github.com/NatDave/transport-loop) | Web app to analyze trips crossing segments of a circular transportation loop |
+
+### 🧰 Tools
+
+**Transportation:** PTV Vissim · Synchro · ArcGIS
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+
+<sub>⚡ Fun fact: I play the piano.</sub>
