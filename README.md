@@ -2,7 +2,7 @@
 
 # Nathan David Obeng-Amoako
 
-**Everybody calls me NatDave.** Making transportation systems work better!
+Everybody calls me NatDave. I make transportation systems work better!
 
 PhD Candidate in Transportation Engineering · Northeastern University · Boston, MA
 
